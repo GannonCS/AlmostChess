@@ -1,2 +1,2 @@
 # AlmostChess
-My best attempt at making chess for an assignment, it mostly works but isn't fully there. Not sure if I will return to it later.
+Final Project for CS 162. Refer to it as Almost Chess as it's mostly functional with a few bugs. Demonstrates my knowledge of python concepts such as classes, if/else statements, and data modification. 
